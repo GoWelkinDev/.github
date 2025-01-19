@@ -16,7 +16,7 @@ _**承自往昔,跨越现在,直至未来。**_
 - Apache License 2.0
 - DimenRefactor Studio Limited Distribution License v1.2
 
-## 活跃项目
+## 主要项目
 - [找一找84](https://github.com/Nebula-Studios/84-Project)<br>
 - [柚子API(Youzi API)](https://github.com/Nebula-Studios/Youzi-API)<br>
 - [寻忆终途](https://github.com/Nebula-Studios/DimenBeat)
