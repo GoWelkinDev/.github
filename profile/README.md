@@ -37,5 +37,3 @@ _**注意:受学业影响，工作室现已进入非活跃状态。**_
 - [BiliBili官方动态](https://space.bilibili.com/3546784620087914/dynamic)
 - [Steam厂商页](https://store.steampowered.com/developer/DimenRefactor-Studio)
 - [TapTap官方账号](https://www.taptap.cn/developer/281931)
-<br>
-> Copyright © 2023-2024 DimenRefactor Studios All Rights Reserved
