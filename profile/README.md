@@ -14,7 +14,7 @@ _**承自往昔,跨越现在,直至未来。**_
 一般情况下，我们的项目使用以下许可证开源:
 - Eclipse Public License 2.0
 - Apache License 2.0
-- Limited Distribution License
+- Limited Distribution License for DimenRefactor Studio
 
 ## 主要项目
 - [找一找84](https://github.com/Nebula-Studios/84-Project)<br>
