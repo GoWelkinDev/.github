@@ -11,8 +11,8 @@ _**承自往昔,跨越现在,直至未来。**_
 它们一般不是实时更新的，只会在对应的游戏有更新时同步一次<br>
 
 ## 主要项目
-- [找一找84](https://github.com/Nebula-Studios/84-Project)<br> (活跃)
-- [柚子API(Youzi API)](https://github.com/Nebula-Studios/Youzi-API)<br> (非活跃)
+- [找一找84](https://github.com/Nebula-Studios/84-Project) (活跃)<br>
+- [柚子API(Youzi API)](https://github.com/Nebula-Studios/Youzi-API) (非活跃)<br>
 - [寻忆终途](https://github.com/Nebula-Studios/DimenBeat) (停止开发)
 
 ## 仓库许可证
@@ -25,3 +25,19 @@ _**承自往昔,跨越现在,直至未来。**_
 - [BiliBili官方动态](https://space.bilibili.com/3546784620087914/dynamic)
 - [Steam厂商页](https://store.steampowered.com/developer/DimenRefactor-Studio)
 - [TapTap厂商页](https://www.taptap.cn/developer/281931)
+
+## 工作室成员
+| 成员名称 | 职务 | 活跃情况 |
+| ---- | ---- | ---- |
+| 3cxc | 工作室所有者,主程序 | 活跃 |
+| Ahas | 游戏文案策划 | 半活跃 |
+| Bustling114 | 程序测试 | 活跃 |
+| Mokou | 繁体中文翻译员 | 半活跃 |
+| sahuang | 社区管理 | 半活跃 |
+
+## 运营管理团队成员
+| 成员名称 | 职务 | 活跃情况 |
+| ---- | ---- | ---- |
+| 3cxc | 常任成员，资金管理及其他事务 | 活跃 |
+| ESCmaka | 常任成员、资金管理、服务器管理 | 半活跃 |
+| moimeji | 常任成员、社区管理 | 半活跃 |
