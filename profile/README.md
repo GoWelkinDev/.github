@@ -1,19 +1,35 @@
-# 维度重构工作室 (DimenRefactor Studio)
+# 穹空网络 (GoWelkin Network)
+一个用爱发电的游戏开发组织，专注于开发小体量的游戏(我们也没能力去做其他游戏XD) <br>
+用这个组织名而不是直接用 维度重构工作室 名称的原因很简单：工作室的英文名称太长了，不好用。
 
-一个又杂又鸽子的游戏开发工作室。<br>
-隶属于 GoWelkin Network(穹空网络) <br>
-_**~~-绝大部分的工作室成员都是在读学生XD~~**_
+## 运营委员会
+管理本组织的资金、项目和人员，并决定发展计划或发布公告。
 
-_**承自往昔,跨越现在,直至未来。**_
+运营委员会成员名单:
+| 成员名称 | 职务 | 活跃情况 |
+| ---- | ---- | ---- |
+| 3cxc | 常任成员、资金管理及其他事务 | 活跃 |
+| ESCmaka | 常任成员、资金管理、服务器管理 | 半活跃 |
+| moimeji | 常任成员、社区管理 | 非活跃 |
 
-## 仓库情况
-大部分是我们的游戏的源代码仓库，同时也负责收集与之相关的问题(或建议)<br>
-它们一般不是实时更新的，只会在对应的游戏有更新时同步一次<br>
+# 维度重构工作室 (DimenRefactor Studios)
+
+一个用爱发电的、热爱游戏的、喜欢二次元的、成分复杂且全员鸽子的游戏开发团队 :) <br>
+_**~~(本工作室的成员都是在校学生XD)~~**_
 
 ## 主要项目
-- [找一找84](https://github.com/Nebula-Studios/84-Project) (活跃)<br>
-- [柚子API(Youzi API)](https://github.com/Nebula-Studios/Youzi-API) (非活跃)<br>
-- [寻忆终途](https://github.com/Nebula-Studios/DimenBeat) (停止开发)
+- [找一找84](https://github.com/GoWelkinDev/84-Project) (活跃)<br>
+- [柚子API(Youzi API)](https://github.com/GoWelkinDev/Youzi-API) (非活跃)<br>
+- [寻忆终途](https://github.com/GoWelkinDev/DimenBeat) (停止开发)
+
+## 工作室成员
+| 成员名称 | 职务 | 活跃情况 |
+| ---- | ---- | ---- |
+| 3cxc | 工作室负责人,主程序 | 活跃 |
+| Ahas | 游戏文案策划 | 半活跃 |
+| Bustling114 | 程序测试,社区管理 | 活跃 |
+| Mokou | 繁体中文翻译员 | 半活跃 |
+| sahuang | 社区管理 | 非活跃 |
 
 ## 仓库许可证
 一般情况下，我们的项目使用以下许可证开源:
@@ -21,23 +37,8 @@ _**承自往昔,跨越现在,直至未来。**_
 - Apache License 2.0
 - Limited Distribution License for DimenRefactor Studio
 
-## 我们的相关链接
+## 工作室相关链接
 - [BiliBili官方动态](https://space.bilibili.com/3546784620087914/dynamic)
 - [Steam厂商页](https://store.steampowered.com/developer/DimenRefactor-Studio)
 - [TapTap厂商页](https://www.taptap.cn/developer/281931)
-
-## 工作室成员
-| 成员名称 | 职务 | 活跃情况 |
-| ---- | ---- | ---- |
-| 3cxc | 工作室所有者,主程序 | 活跃 |
-| Ahas | 游戏文案策划 | 半活跃 |
-| Bustling114 | 程序测试 | 活跃 |
-| Mokou | 繁体中文翻译员 | 半活跃 |
-| sahuang | 社区管理 | 半活跃 |
-
-## 运营管理团队成员
-| 成员名称 | 职务 | 活跃情况 |
-| ---- | ---- | ---- |
-| 3cxc | 常任成员，资金管理及其他事务 | 活跃 |
-| ESCmaka | 常任成员、资金管理、服务器管理 | 半活跃 |
-| moimeji | 常任成员、社区管理 | 半活跃 |
+- [我们的官方站点](https://www.gowelkin.net)
