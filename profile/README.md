@@ -6,11 +6,15 @@
 管理本组织的资金、项目和人员，并决定发展计划或发布公告。
 
 运营委员会成员名单:
-| 成员名称 | 职务 | 活跃情况 |
-| ---- | ---- | ---- |
-| 3cxc | 常任成员、资金管理及其他事务 | 活跃 |
-| ESCmaka | 常任成员、资金管理、服务器托管 | 半活跃 |
-| moimeji | 常任成员、社区管理 | 非活跃 |
+| 成员名称 | 职务 |
+| ---- | ---- |
+| 3cxc | 常任成员、资金管理及其他事务 |
+| ESCmaka | 常任成员、资金管理、服务器托管 |
+| moimeji | 常任成员、社区管理 |
+
+## 联系我们
+用户支持: support@gowelkin.net
+加入我们: career@gowelkin.net
 
 # 维度重构工作室 (DimenRefactor Studios)
 
@@ -23,19 +27,13 @@ _**~~(本工作室的成员都是在校学生XD)~~**_
 - [寻忆终途](https://github.com/GoWelkinDev/DimenBeat) (停止开发)
 
 ## 工作室成员
-| 成员名称 | 职务 | 活跃情况 |
-| ---- | ---- | ---- |
-| 3cxc | 工作室负责人,主程序 | 活跃 |
-| Ahas | 文案策划 | 半活跃 |
-| Bustling114 | 社区管理 | 活跃 |
-| Mokou | 本地化繁体中文 | 半活跃 |
-| sahuang | 社区管理 | 非活跃 |
-
-## 仓库许可证
-一般情况下，我们的项目使用以下许可证开源:
-- Eclipse Public License 2.0
-- Apache License 2.0
-- Limited Distribution License for DimenRefactor Studio
+| 成员名称 | 职务 |
+| ---- | ---- |
+| 3cxc | 工作室负责人,主程序 |
+| Ahas | 文案策划 |
+| Bustling114 | 社区管理 |
+| Mokou | 本地化繁体中文 |
+| sahuang | 社区管理 |
 
 ## 工作室相关链接
 - [BiliBili官方动态](https://space.bilibili.com/3546784620087914/dynamic)
