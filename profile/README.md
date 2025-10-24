@@ -5,9 +5,10 @@ Tips: "维度重构工作室"也是我们的团队名称，但更多的使用"�
 _**承自往昔,跨越现在,直至未来。**_
 
 ## 主要项目
-- [找一找84](https://github.com/GoWelkinDev/84-Project) (停止开发)<br>
-- [柚子API(Youzi API)](https://github.com/GoWelkinDev/Youzi-API) (非活跃)<br>
-- [寻忆终途](https://github.com/GoWelkinDev/DimenBeat) (停止开发)
+- 未知：零号站点
+- 找一找84 _**[已终止]**_ 
+- 柚子API(Youzi API)
+- 寻忆终途 _**[已终止]**_
 
 ## 联系我们
 用户支持: support@gowelkin.net
