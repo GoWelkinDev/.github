@@ -1,6 +1,2 @@
-# These are supported funding model platforms
-
-github: 
-  - GoWelkinDev
-custom: 
-  - https://afdian.com/a/3_cxc
+github: [GoWelkinDev]
+custom: ['https://afdian.com/a/3_cxc']
